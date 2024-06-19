@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Customer.Microservice</name>
+    </assembly>
+    <members>
+        <member name="T:Customer.Microservice.Migrations.AddCustomersToDb">
+            <inheritdoc />
+        </member>
+        <member name="M:Customer.Microservice.Migrations.AddCustomersToDb.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:Customer.Microservice.Migrations.AddCustomersToDb.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:Customer.Microservice.Migrations.AddCustomersToDb.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>
